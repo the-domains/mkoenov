@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T20:45:48.862Z'
-dateModified: '2016-03-07T20:45:34.951Z'
+datePublished: '2016-03-07T20:54:55.323Z'
+dateModified: '2016-03-07T20:46:13.052Z'
 title: '- IT WAS ALL A DREAM -'
 author: []
+sourcePath: _posts/2016-03-07--it-was-all-a-dream-.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07--it-was-all-a-dream-.md
-published: true
 url: '-it-was-all-a-dream-/index.html'
 _type: Article
 
