@@ -1,7 +1,7 @@
 name: Mkoenov
 favicon: null
-layout_spectrum: 0.3028836401645094
-typography_spectrum: 0.4568436301779002
+layout_spectrum: 1
+typography_spectrum: 0.6171
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.7917642856482416
-  lightness: 0.018260242650285363
-  saturation: 0.6941061594989151
-  rhythmicContrast: 0.14448802848346531
+    - '#7e8a98'
+    - '#0b0b17'
+    - '#0a4b9b'
+    - '#95e0ff'
+    - '#ffe35b'
+  brandStrength: 0.9375
+  lightness: 0.0625
+  saturation: 0.6875
+  rhythmicContrast: 0.5
 purpose: []
