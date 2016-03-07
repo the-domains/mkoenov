@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mkoenov]]></title>
+        <description><![CDATA[Mkoenov]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 07 Mar 2016 20:46:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[- IT WAS ALL A DREAM -]]></title>
+            <description><![CDATA[<article><h1>- IT WAS ALL A DREAM -</h1><p>We produce from inception to publicity the most ambitious notions of our first-party creators and third-party clients. A visionary project will never fail for want of professionalism, and a sober project will never fail for want of inspiration.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/84adc044-6264-42a1-8722-4f37b0867fb7.jpg"></article>]]></description>
+            <link>undefined-it-was-all-a-dream-/index.html</link>
+            <guid isPermaLink="false">df5b5f7d-0436-4358-852e-02e2d8f690bc</guid>
+            <pubDate>Mon, 07 Mar 2016 20:45:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
