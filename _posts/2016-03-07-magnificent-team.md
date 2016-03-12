@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-07T20:49:35.856Z'
-dateModified: '2016-03-07T20:49:25.834Z'
+description: 'We are professional problem solvers, artists, daydreamers, thinkers, and creators all.'
+datePublished: '2016-03-12T19:36:08.117Z'
+dateModified: '2016-03-12T19:36:07.838Z'
 title: MAGNIFICENT TEAM
 author: []
+sourcePath: _posts/2016-03-07-magnificent-team.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-magnificent-team.md
-published: true
 url: magnificent-team/index.html
 _type: Article
 
